@@ -4,7 +4,7 @@ Tool for importing Collection #1 data breach into MongoDB.
 Given any archive file as input, Skidloader will extract it, recursively search the archive for text file files that have an `email:password` format, and then load them into a single JSON file for easy importing into MongoDB.
 
 ## Download
-You can download prebuilt binaries for Skidloader on [here](https://github.com/petercunha/skidloader/releases).
+You can download prebuilt binaries for Skidloader [here](https://github.com/petercunha/skidloader/releases).
 
 - Mac: https://github.com/petercunha/skidloader/releases/download/1.0/skidloader-macos
 - Windows: https://github.com/petercunha/skidloader/releases/download/1.0/skidloader-win.exe
