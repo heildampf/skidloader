@@ -1,5 +1,5 @@
 # Skidloader ![Build Badge](https://img.shields.io/badge/build-passing-success.svg) ![Dependency Badge](https://img.shields.io/badge/dependencies-up%20to%20date-success.svg)
-Tool for importing Collection #1 data breach into MongoDB. 
+Tool for importing the Collection #1 data breach into MongoDB. 
 
 Given any archive file as input, Skidloader will extract it, recursively search the archive for `.txt` file files that have an `email:password` format, and then load them into a single JSON file for easy importing into MongoDB. Archive formats such as `.zip, .gz, .bz2, .tar, tar.gz, tar.bz2, .tgz, and .tbz2` are all supported.
 
