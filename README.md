@@ -21,7 +21,7 @@ You can download prebuilt binaries for Skidloader [here](https://github.com/pete
 
 
 ## Building From Source
-```bash
+```
 git clone https://github.com/petercunha/skidloader.git
 cd skidloader
 npm i
