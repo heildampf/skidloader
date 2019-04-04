@@ -6,9 +6,9 @@ Given any archive file as input, Skidloader will extract it, recursively search 
 ## Download
 You can download prebuilt binaries for skidloader here: https://github.com/petercunha/skidloader/releases
 
-- Mac download: https://github.com/petercunha/skidloader/releases/download/1.0/skidloader-macos
-- Windows download: https://github.com/petercunha/skidloader/releases/download/1.0/skidloader-win.exe
-- Linux download: https://github.com/petercunha/skidloader/releases/download/1.0/skidloader-linux
+- Mac: https://github.com/petercunha/skidloader/releases/download/1.0/skidloader-macos
+- Windows: https://github.com/petercunha/skidloader/releases/download/1.0/skidloader-win.exe
+- Linux: https://github.com/petercunha/skidloader/releases/download/1.0/skidloader-linux
 
 ## Usage
 `$ skidloader <archive_file> <output_file.json>`
