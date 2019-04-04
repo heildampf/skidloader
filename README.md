@@ -3,6 +3,8 @@ Tool for importing Collection #1 data breach into MongoDB.
 
 Given any archive file as input, Skidloader will extract it, recursively search the archive for text file files that have an `email:password` format, and then load them into a single JSON file for easy importing into MongoDB.
 
+[![asciicast](https://asciinema.org/a/238918.svg)](https://asciinema.org/a/238918)
+
 
 ## Usage
 `$ skidloader <archive_file> <output_file.json>`
