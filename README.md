@@ -13,7 +13,7 @@ Then, you can import them into your MongoDB instance like this:
 
 
 ## Download
-You can download prebuilt binaries for Skidloader [here](https://github.com/petercunha/skidloader/releases).
+You can download prebuilt binaries for Skidloader [here](https://github.com/petercunha/skidloader/releases)
 
 - Mac: https://github.com/petercunha/skidloader/releases/download/1.0/skidloader-macos
 - Windows: https://github.com/petercunha/skidloader/releases/download/1.0/skidloader-win.exe
