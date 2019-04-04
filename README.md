@@ -20,7 +20,9 @@ You can download prebuilt binaries for Skidloader [here](https://github.com/pete
 - Linux: https://github.com/petercunha/skidloader/releases/download/1.0/skidloader-linux
 
 
-## Building From Source
+## Running From Source
+To run from source code instead of using the pre-built binaries, you can set up the project like this:
+
 ```
 git clone https://github.com/petercunha/skidloader.git
 cd skidloader
